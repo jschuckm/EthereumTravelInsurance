@@ -1,0 +1,9 @@
+Date       City   Weather
+2021-04-15 Denver Hail
+2021-04-15 Austin Normal
+2021-04-16 Houston Rainfall
+2021-04-16 Boston Rainfall
+2021-04-17 Phoenix Flood
+2021-04-18 Tampa Hail
+2021-04-18 Miami Flood
+2021-04-19 Tucson Normal
